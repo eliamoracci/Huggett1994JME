@@ -5,5 +5,7 @@
  2. A function that simulates the entire path of asset holdings, earnings and consumption given policy functions.
  3. A function that finds the equilibrium bequest for any interest rate via bisection.
  4. A function that finds the interest rate consistent with general equilibrium.
- 
 
+Elia Moracci (elia.moracci@eui.eu)
+PhD Student in Economics
+European University Institute
